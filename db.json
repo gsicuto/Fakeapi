@@ -1,5 +1,4 @@
-
-"movies" : [
+{"movies" : [
   {
     "id": "fUbJPciPq",
     "title": "The Godfather",
@@ -7,5 +6,4 @@
     "hasoscars": true, 
     "IMDbRating": 9.2,
   },
-]
-
+]}
