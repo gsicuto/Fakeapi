@@ -1,0 +1,11 @@
+[
+"movies" : [
+  {
+    "id": "fUbJPciPq",
+    "title": "The Godfather",
+    "director": "Francis Coppola",
+    "hasoscars": true, 
+    "IMDbRating": 9.2,
+  }
+]
+]
