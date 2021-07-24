@@ -1,4 +1,4 @@
-{
+
 "movies" : [
   {
     "id": "fUbJPciPq",
@@ -6,6 +6,6 @@
     "director": "Francis Coppola",
     "hasoscars": true, 
     "IMDbRating": 9.2,
-  }
+  },
 ]
-}
+
